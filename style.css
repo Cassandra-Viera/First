@@ -13,3 +13,11 @@ body {
     color: blueviolet;
     padding: 25px;
 }
+
+h2 {
+    color: white;
+} 
+
+p {
+    color: wheat;
+}
